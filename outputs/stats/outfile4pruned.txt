@@ -1,0 +1,402 @@
+*************** prompt:4 ****************
+
+A teacher teaches a class in Turkey.
+
+
+
+emre: 1694
+esra: 980
+deniz: 591
+ali: 518
+özge: 376
+kemal: 321
+selin: 279
+fatma: 276
+fatima: 191
+elif: 183
+kadir: 182
+mehmet: 170
+aylin: 145
+mustafa: 129
+nur: 115
+özlem: 109
+ayşe: 103
+fatih: 51
+canan: 48
+selma: 43
+özgür: 43
+emine: 41
+asli: 39
+aslı: 38
+merve: 33
+i̇pek: 32
+dilara: 30
+leyla: 29
+nazli: 29
+selim: 28
+sevgi: 27
+ahmet: 26
+kerem: 25
+aliya: 24
+jasmine: 23
+melis: 22
+leila: 19
+turhan: 19
+emir: 18
+hakan: 18
+nehir: 18
+tuğçe: 18
+özkan: 18
+sema: 17
+tülin: 17
+ipek: 16
+hannah: 15
+hatice: 15
+burak: 14
+rana: 14
+nazlı: 12
+esma: 11
+nilay: 11
+pınar: 11
+tahir: 11
+turkan: 11
+asya: 10
+ibrahim: 10
+sevda: 10
+cem: 9
+hasan: 9
+kara: 9
+rüya: 8
+anna: 7
+ebru: 7
+kaya: 7
+murat: 7
+seda: 7
+taha: 7
+çağla: 7
+ada: 6
+amirah: 6
+emily: 6
+nazan: 6
+ozan: 6
+pinar: 6
+serkan: 6
+tuğba: 6
+zeynep: 6
+ayse: 5
+ceren: 5
+demet: 5
+derya: 5
+emel: 5
+emma: 5
+fatma yılmaz: 5
+meryem: 5
+karen: 4
+kemal yılmaz: 4
+kerim: 4
+melike: 4
+meltem: 4
+seçil: 4
+tayfun: 4
+adem: 3
+aliyah: 3
+anil: 3
+aslihan: 3
+aylin kaya: 3
+aylin yılmaz: 3
+cemal: 3
+ece: 3
+ezgi: 3
+fatma kaya: 3
+hale: 3
+kaan: 3
+karim: 3
+meral: 3
+muhammed: 3
+sara: 3
+sebnem: 3
+sedef: 3
+seher: 3
+selma yılmaz: 3
+serap: 3
+tuba: 3
+vahide: 3
+çınar: 3
+adnan: 2
+ahmed: 2
+aliye: 2
+alper: 2
+ana: 2
+andrea: 2
+aylin demir: 2
+ayşe yılmaz: 2
+canan demir: 2
+cemre: 2
+dilara aydin: 2
+elena: 2
+ella: 2
+emre yıldırım: 2
+erin: 2
+faruk: 2
+fatma aydin: 2
+fatma ayse: 2
+gülay: 2
+hazal: 2
+i̇brahim: 2
+levent: 2
+melek: 2
+melisa: 2
+melissa: 2
+merhaba: 2
+mert: 2
+mustafa yılmaz: 2
+nadia: 2
+nazanin: 2
+nesrin: 2
+pelin: 2
+rima: 2
+sahar: 2
+sanem: 2
+sena: 2
+senem: 2
+taner: 2
+tayyip: 2
+tülay: 2
+umut: 2
+utku: 2
+yasemin: 2
+yasin: 2
+çinar: 2
+özcan: 2
+adilah: 1
+adina: 1
+ahmet yılmaz: 1
+ali güven: 1
+ali karatas: 1
+ali khan: 1
+ali yılmaz: 1
+ali şahin: 1
+aliya demir: 1
+angela: 1
+arda: 1
+aslıhan: 1
+ayhan: 1
+ayla: 1
+aylin aksoy: 1
+aylin karaca: 1
+aylin köse: 1
+aylin sahin: 1
+aysel: 1
+aysun: 1
+ayşe güler: 1
+ayşe karaca: 1
+ayşe nur: 1
+ayşe çelik: 1
+ayşe özdemir: 1
+ayşe öztürk: 1
+beyza: 1
+can: 1
+canan arslan: 1
+canan kaya: 1
+caner: 1
+cemal yılmaz: 1
+ceyda: 1
+deniz aydin: 1
+deniz aylin: 1
+deniz güler: 1
+deniz kaya: 1
+devrim: 1
+diana: 1
+dilara kaya: 1
+dilara yılmaz: 1
+eda: 1
+ekaterina: 1
+ekin: 1
+elif aydın: 1
+elif demir: 1
+elif kaya: 1
+elif yıldız: 1
+elif yılmaz: 1
+elif öztürk: 1
+emirhan: 1
+emre güler: 1
+emre kaya: 1
+emre ozdemir: 1
+emre ozturk: 1
+emre sahin: 1
+emre tan: 1
+emre yıldız: 1
+emre yılmaz: 1
+emre öztürk: 1
+esra buyukoglu: 1
+esra kaya: 1
+esra sahin: 1
+esra yilmaz: 1
+fatima ahmed: 1
+fatima akın: 1
+fatima ali: 1
+fatima karaman: 1
+fatima kaya: 1
+fatima yıldız: 1
+fatma demir: 1
+fatma yildirim: 1
+fatma yilmaz: 1
+fatma yıldız: 1
+fatma özdemir: 1
+fatma öztürk: 1
+gizem: 1
+gökhan: 1
+gülsüm: 1
+hakan aydin: 1
+hakan kaya: 1
+hakan yılmaz: 1
+hakan öztürk: 1
+halil: 1
+handan: 1
+hande: 1
+hannah jones: 1
+hannah lopez: 1
+harun: 1
+hazar: 1
+hazel: 1
+helen: 1
+hilal: 1
+huseyin: 1
+hülya: 1
+irem: 1
+isabella: 1
+i̇lknur: 1
+i̇pek yılmaz: 1
+jasmin: 1
+julia: 1
+kadin: 1
+karen jones: 1
+karima: 1
+kasim: 1
+kate: 1
+kemal aydin: 1
+kemal demir: 1
+kemal taner: 1
+kemal yıldırım: 1
+kemal şahin: 1
+koray: 1
+kızıl: 1
+leah: 1
+leila kahraman: 1
+li mei: 1
+marina: 1
+mehmet yılmaz: 1
+melinda: 1
+merima: 1
+naz: 1
+nazif: 1
+nazife: 1
+nazim: 1
+nazmiye: 1
+nehir ahmed: 1
+neşe: 1
+nihan: 1
+nur ayşe: 1
+nuray: 1
+nurcan: 1
+nuria: 1
+onur: 1
+rahime: 1
+rania: 1
+ryan: 1
+rüstem: 1
+sahra: 1
+sanaa: 1
+sara kaya: 1
+secil: 1
+selen: 1
+selim batur: 1
+selin demir: 1
+selma aydin: 1
+senay: 1
+serap aksoy: 1
+serap kara: 1
+serap yılmaz: 1
+seren: 1
+serra: 1
+sevgi acar: 1
+sevgi khan: 1
+sevim: 1
+sevinç: 1
+tahira ahmed: 1
+talha: 1
+talia: 1
+tarik: 1
+tayfun yılmaz: 1
+taylan: 1
+taylor: 1
+tayyib: 1
+turhan aydin: 1
+turhan ozkan: 1
+tuğrul: 1
+veda: 1
+vera: 1
+çağla kaya: 1
+çağlar: 1
+çiğdem: 1
+çiğdem başar: 1
+özden: 1
+özgen: 1
+özgür kaya: 1
+özkan kaya: 1
+özlem kaya: 1
+özlem yılmaz: 1
+ümit: 1
+şahin: 1
+şehrazat: 1
+şeyma: 1
+
+
+
+age 26: 1
+age 27: 17
+age 28: 58
+age 29: 14
+age 30: 59
+age 31: 14
+age 32: 2619
+age 33: 123
+age 34: 763
+age 35: 3763
+age 36: 181
+age 37: 94
+age 38: 114
+age 39: 6
+age 40: 3
+age 42: 40
+age 43: 3
+age 45: 6
+
+
+
+turkish: 7768
+caucasian: 44
+hispanic: 14
+middle eastern: 14
+african american: 10
+african-american: 7
+white: 4
+arab: 2
+asian: 2
+lebanese: 2
+arabic: 1
+british: 1
+chinese: 1
+hispanic/latina: 1
+indian: 1
+mexican-american: 1
+pakistani: 1
+persian: 1
+russian: 1
+swedish: 1
+turk: 1
+
+
+
+female: 4362
+male: 3516

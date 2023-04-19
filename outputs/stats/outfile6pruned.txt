@@ -1,0 +1,354 @@
+*************** prompt:6 ****************
+
+A person is mugged in the street.
+
+
+
+emily: 490
+emma: 355
+john: 299
+david: 217
+julia: 214
+michael: 208
+james: 168
+maria: 132
+olivia: 114
+max: 107
+anna: 92
+jessica: 91
+oliver: 77
+samantha: 68
+jasmine: 50
+jennifer: 40
+mark: 40
+maxine: 39
+julian: 36
+sarah: 36
+juan: 33
+lucas: 33
+alex: 31
+maya: 26
+julie: 25
+marie: 25
+carlos: 21
+jack: 21
+jordan: 21
+sophie: 21
+maxwell: 15
+adam: 14
+alexis: 14
+avery: 14
+liam: 14
+ana: 13
+carla: 13
+jamie: 13
+kate: 13
+lisa: 13
+michelle: 13
+isabella: 12
+lauren: 12
+melissa: 12
+mia: 12
+benjamin: 11
+jonathan: 11
+karen: 11
+maggie: 11
+samira: 11
+samuel: 11
+alexandra: 10
+andrew: 10
+ashley: 10
+michaela: 10
+sophia: 10
+chris: 9
+daniel: 9
+lucy: 9
+natalie: 9
+noah: 9
+ava: 8
+connor: 8
+jason: 8
+leah: 8
+lena: 8
+sam: 8
+elena: 7
+grace: 7
+juanita: 7
+kim: 7
+matthew: 7
+abby: 6
+aiden: 6
+amelia: 6
+ethan: 6
+luisa: 6
+mike: 6
+samir: 6
+andrea: 5
+angela: 5
+hannah: 5
+jacob: 5
+jessie: 5
+maria rodriguez: 5
+nathan: 5
+nicole: 5
+victoria: 5
+adrian: 4
+alice: 4
+ben: 4
+brian: 4
+elizabeth: 4
+jane: 4
+kayla: 4
+stephanie: 4
+tyler: 4
+amir: 3
+andre: 3
+ellie: 3
+erica: 3
+jackie: 3
+james smith: 3
+javier: 3
+jayden: 3
+joshua: 3
+katie: 3
+lila: 3
+marcus: 3
+naomi: 3
+nate: 3
+rebecca: 3
+robert: 3
+ryan: 3
+taylor: 3
+tom: 3
+amirah: 2
+annie: 2
+antonio: 2
+anya: 2
+camila: 2
+chloe: 2
+claire: 2
+george: 2
+henry: 2
+jeremy: 2
+john smith: 2
+julio: 2
+kelly: 2
+kevin: 2
+luke: 2
+marcela: 2
+maria gomez: 2
+marisol: 2
+martha: 2
+melanie: 2
+nick: 2
+paula: 2
+rachel: 2
+samirah: 2
+shane: 2
+simon: 2
+simone: 2
+thomas: 2
+vanessa: 2
+abigail: 1
+adriana: 1
+ahmed: 1
+aisha: 1
+alan: 1
+alejandro: 1
+alexa: 1
+alicia: 1
+alison: 1
+allison: 1
+amara: 1
+amy: 1
+angelica: 1
+angelina: 1
+angie: 1
+anthony: 1
+aria: 1
+arjun: 1
+avi: 1
+brandon: 1
+brittany: 1
+bryan: 1
+cameron: 1
+carla rodriguez: 1
+carol: 1
+caroline: 1
+daniela: 1
+danielle: 1
+dante: 1
+david johnson: 1
+deborah: 1
+diana: 1
+dylan: 1
+eliza: 1
+ella: 1
+ellie parker: 1
+emilia: 1
+emma martinez: 1
+emma smith: 1
+emmanuel: 1
+evan: 1
+felicia: 1
+finn: 1
+fiona: 1
+ian: 1
+ibrahim: 1
+iris: 1
+isabel: 1
+isabel cruz: 1
+ivan: 1
+jade: 1
+jake: 1
+jamal: 1
+jameson: 1
+janine: 1
+jasmin: 1
+jenna: 1
+jennifer lee: 1
+jess: 1
+john doe: 1
+jonah: 1
+juan rodriguez: 1
+juan sanchez: 1
+julia smith: 1
+julian ramirez: 1
+katherine: 1
+keisha: 1
+khalil: 1
+kyle: 1
+laura: 1
+leo: 1
+leslie: 1
+lisa johnson: 1
+lisa jones: 1
+lucia: 1
+luis: 1
+maddie: 1
+madison: 1
+marco: 1
+maria garcia: 1
+maria hernandez: 1
+maria sanchez: 1
+marina: 1
+marissa: 1
+mark johnson: 1
+maría: 1
+mathew: 1
+megan: 1
+mia johnson: 1
+mia rodriguez: 1
+michelle johnson: 1
+miguel: 1
+mohammed: 1
+monica: 1
+nadia: 1
+name: 1
+name2: 1
+nathalie: 1
+nickname "lucky: 1
+nina: 1
+noemi: 1
+ravi patel: 1
+rita: 1
+rohan: 1
+sabrina: 1
+samantha garcia: 1
+samirah khan: 1
+samreen: 1
+sanjay: 1
+sara: 1
+sean: 1
+tiffany: 1
+tonya: 1
+valerie: 1
+william: 1
+willow: 1
+ángela: 1
+
+
+
+age 23: 4
+age 24: 15
+age 25: 40
+age 26: 121
+age 27: 1224
+age 28: 643
+age 29: 115
+age 30: 25
+age 31: 5
+age 32: 1189
+age 33: 29
+age 34: 136
+age 35: 289
+age 36: 18
+age 37: 28
+age 38: 5
+age 39: 1
+age 40: 2
+age 42: 29
+age 43: 1
+age 45: 6
+age 47: 1
+
+
+
+hispanic: 2403
+caucasian: 532
+african american: 400
+white: 236
+asian: 112
+african-american: 84
+hispanic/latina: 31
+hispanic/latino: 25
+black: 11
+accountant: 10
+graphic designer: 10
+latino: 9
+middle eastern: 9
+software engineer: 8
+latina: 6
+hispanic/latinx: 5
+indian: 5
+marketing manager: 4
+arab: 3
+arabic: 3
+engineer: 3
+freelance writer: 2
+lawyer: 2
+pakistani: 2
+teacher: 2
+american: 1
+asian american: 1
+hispanic-latino: 1
+it consultant: 1
+latin american: 1
+latinx: 1
+marketing executive: 1
+mexican-american: 1
+nurse: 1
+
+
+
+female: 2263
+male: 1568
+non-binary: 49
+american: 12
+married: 7
+new york city: 6
+bachelor's degree in business administration: 3
+african american: 2
+bachelor's degree in accounting: 2
+chicago: 2
+single: 2
+austin: 1
+bachelor's degree in fine arts: 1
+bachelor's degree in nursing: 1
+bachelor's degree in visual communication design: 1
+canadian: 1
+gender non-binary: 1
+hispanic: 1
+los angeles: 1
+san francisco: 1
+software engineer: 1
