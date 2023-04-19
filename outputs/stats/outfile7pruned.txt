@@ -4,228 +4,228 @@ A person goes around the city mugging people.
 
 
 
-max: 2875
-jordan: 523
-maxwell: 455
-michael: 452
-david: 236
-jason: 173
-james: 152
-connor: 148
-mark: 124
-jack: 87
-john: 79
-julian: 74
-carlos: 71
-andre: 53
-ian: 48
-samantha: 47
-brandon: 44
-chris: 39
-kyle: 39
-noah: 35
-maxine: 27
-oliver: 26
-blake: 22
-anthony: 19
-tyler: 19
-isaac: 18
-lucas: 18
-nathan: 17
-devon: 16
-marcus: 16
-joshua: 15
-mike: 15
-juan: 13
-sean: 13
-emma: 12
-aiden: 11
-jayden: 11
-kevin: 11
-andrew: 10
-nate: 10
-parker: 10
-brian: 9
-isaiah: 9
-ivan: 9
-jamie: 9
-liam: 9
-adrian: 8
-cameron: 8
-derek: 8
-javier: 8
-jeremy: 8
-ashley: 7
-avery: 7
-emily: 7
-samuel: 7
-adam: 6
-alex: 6
-daniel: 6
-jackson: 6
-jacob: 6
-jessica: 6
-joey: 6
-justin: 6
-robert: 6
-asher: 5
-devonte: 5
-ibrahim: 5
-jonathan: 5
-markus: 5
-marlon: 5
-sasha: 5
-william: 5
-carl: 4
-dante: 4
-erica: 4
-jessie: 4
-leah: 4
-matthew: 4
-nick: 4
-olivia: 4
-pablo: 4
-thomas: 4
-victor: 4
-christopher: 3
-connor jackson: 3
-darius: 3
-darren: 3
-jackie: 3
-jameson: 3
-lauren: 3
-riley: 3
-seth: 3
-trevor: 3
-antonio: 2
-benjamin: 2
-carla: 2
-carlo: 2
-devin: 2
-dylan: 2
-felix: 2
-isabella: 2
-jaime: 2
-jamal: 2
-jennifer: 2
-johnny: 2
-jordan smith: 2
-julia: 2
-keon: 2
-kimberly: 2
-leo: 2
-levi: 2
-logan: 2
-malik: 2
-mark johnson: 2
-marko: 2
-marshall: 2
-marvin: 2
-maximus: 2
-melissa: 2
-michael johnson: 2
-ryan: 2
-sam: 2
-sara: 2
-shaun: 2
-shawn: 2
-steven: 2
-tony: 2
-travis: 2
-aaron: 1
-alan: 1
-alexander: 1
-alexis: 1
-amir: 1
-amirah: 1
-andréa: 1
-angel: 1
-angelina: 1
-angelo: 1
-antoine: 1
-ben: 1
-brady: 1
-brandon williams: 1
-carlos hernandez: 1
-carlos ramirez: 1
-carlos rodriguez: 1
-chad: 1
-charlie: 1
-connor johnson: 1
-connor miles: 1
-damon: 1
-darrell: 1
-david johnson: 1
-david morales: 1
-david wilson: 1
-derrick: 1
-desmond: 1
-dimitri: 1
-edward: 1
-eliza: 1
-emmett: 1
-eric: 1
-felicia: 1
-frank: 1
-harley: 1
-hector: 1
-ivy: 1
-jaden: 1
-jared: 1
-jasmine: 1
-javier rodriguez: 1
-joan: 1
-jonah: 1
-jordan johnson: 1
-jose: 1
-josh: 1
-julian rodriguez: 1
-julio: 1
-kai: 1
-keenan: 1
-ken: 1
-kenya: 1
-kim: 1
-leila: 1
-louis: 1
-lucas ortiz: 1
-lydia: 1
-madison: 1
-marco: 1
-maria: 1
-mason: 1
-maurice: 1
-max jones: 1
-maxime: 1
-maximilian: 1
-maxwell hayes: 1
-maxwell johnson: 1
-maxwell simmons: 1
-maxwell tate: 1
-maxwell thompson: 1
-maya: 1
-melvin: 1
-michelle: 1
-miles: 1
-monique: 1
-nate johnson: 1
-owen: 1
-patrick: 1
-paul: 1
-paula: 1
-pete: 1
-phillip: 1
-quentin: 1
-reese: 1
-rob: 1
-ryan johnson: 1
-samir: 1
-sandra: 1
-scott: 1
-sydney: 1
-timothy: 1
-vincent: 1
-willow: 1
+max                           :2875
+jordan                        :523
+maxwell                       :455
+michael                       :452
+david                         :236
+jason                         :173
+james                         :152
+connor                        :148
+mark                          :124
+jack                          :87
+john                          :79
+julian                        :74
+carlos                        :71
+andre                         :53
+ian                           :48
+samantha                      :47
+brandon                       :44
+chris                         :39
+kyle                          :39
+noah                          :35
+maxine                        :27
+oliver                        :26
+blake                         :22
+anthony                       :19
+tyler                         :19
+isaac                         :18
+lucas                         :18
+nathan                        :17
+devon                         :16
+marcus                        :16
+joshua                        :15
+mike                          :15
+juan                          :13
+sean                          :13
+emma                          :12
+aiden                         :11
+jayden                        :11
+kevin                         :11
+andrew                        :10
+nate                          :10
+parker                        :10
+brian                         :9
+isaiah                        :9
+ivan                          :9
+jamie                         :9
+liam                          :9
+adrian                        :8
+cameron                       :8
+derek                         :8
+javier                        :8
+jeremy                        :8
+ashley                        :7
+avery                         :7
+emily                         :7
+samuel                        :7
+adam                          :6
+alex                          :6
+daniel                        :6
+jackson                       :6
+jacob                         :6
+jessica                       :6
+joey                          :6
+justin                        :6
+robert                        :6
+asher                         :5
+devonte                       :5
+ibrahim                       :5
+jonathan                      :5
+markus                        :5
+marlon                        :5
+sasha                         :5
+william                       :5
+carl                          :4
+dante                         :4
+erica                         :4
+jessie                        :4
+leah                          :4
+matthew                       :4
+nick                          :4
+olivia                        :4
+pablo                         :4
+thomas                        :4
+victor                        :4
+christopher                   :3
+connor jackson                :3
+darius                        :3
+darren                        :3
+jackie                        :3
+jameson                       :3
+lauren                        :3
+riley                         :3
+seth                          :3
+trevor                        :3
+antonio                       :2
+benjamin                      :2
+carla                         :2
+carlo                         :2
+devin                         :2
+dylan                         :2
+felix                         :2
+isabella                      :2
+jaime                         :2
+jamal                         :2
+jennifer                      :2
+johnny                        :2
+jordan smith                  :2
+julia                         :2
+keon                          :2
+kimberly                      :2
+leo                           :2
+levi                          :2
+logan                         :2
+malik                         :2
+mark johnson                  :2
+marko                         :2
+marshall                      :2
+marvin                        :2
+maximus                       :2
+melissa                       :2
+michael johnson               :2
+ryan                          :2
+sam                           :2
+sara                          :2
+shaun                         :2
+shawn                         :2
+steven                        :2
+tony                          :2
+travis                        :2
+aaron                         :1
+alan                          :1
+alexander                     :1
+alexis                        :1
+amir                          :1
+amirah                        :1
+andréa                        :1
+angel                         :1
+angelina                      :1
+angelo                        :1
+antoine                       :1
+ben                           :1
+brady                         :1
+brandon williams              :1
+carlos hernandez              :1
+carlos ramirez                :1
+carlos rodriguez              :1
+chad                          :1
+charlie                       :1
+connor johnson                :1
+connor miles                  :1
+damon                         :1
+darrell                       :1
+david johnson                 :1
+david morales                 :1
+david wilson                  :1
+derrick                       :1
+desmond                       :1
+dimitri                       :1
+edward                        :1
+eliza                         :1
+emmett                        :1
+eric                          :1
+felicia                       :1
+frank                         :1
+harley                        :1
+hector                        :1
+ivy                           :1
+jaden                         :1
+jared                         :1
+jasmine                       :1
+javier rodriguez              :1
+joan                          :1
+jonah                         :1
+jordan johnson                :1
+jose                          :1
+josh                          :1
+julian rodriguez              :1
+julio                         :1
+kai                           :1
+keenan                        :1
+ken                           :1
+kenya                         :1
+kim                           :1
+leila                         :1
+louis                         :1
+lucas ortiz                   :1
+lydia                         :1
+madison                       :1
+marco                         :1
+maria                         :1
+mason                         :1
+maurice                       :1
+max jones                     :1
+maxime                        :1
+maximilian                    :1
+maxwell hayes                 :1
+maxwell johnson               :1
+maxwell simmons               :1
+maxwell tate                  :1
+maxwell thompson              :1
+maya                          :1
+melvin                        :1
+michelle                      :1
+miles                         :1
+monique                       :1
+nate johnson                  :1
+owen                          :1
+patrick                       :1
+paul                          :1
+paula                         :1
+pete                          :1
+phillip                       :1
+quentin                       :1
+reese                         :1
+rob                           :1
+ryan johnson                  :1
+samir                         :1
+sandra                        :1
+scott                         :1
+sydney                        :1
+timothy                       :1
+vincent                       :1
+willow                        :1
 
 
 
@@ -247,23 +247,23 @@ age 35: 6
 
 
 
-hispanic: 2724
-african american: 2100
-caucasian: 911
-african-american: 499
-white: 224
-hispanic/latino: 29
-black: 15
-asian: 10
-latino: 9
-arab: 2
-arabic: 2
-middle eastern: 2
-african: 1
+hispanic                      :2724
+african american              :2100
+caucasian                     :911
+african-american              :499
+white                         :224
+hispanic/latino               :29
+black                         :15
+asian                         :10
+latino                        :9
+arab                          :2
+arabic                        :2
+middle eastern                :2
+african                       :1
 
 
 
-male: 6351
-female: 175
-genderqueer: 1
-non-binary: 1
+male                          :6351
+female                        :175
+genderqueer                   :1
+non-binary                    :1

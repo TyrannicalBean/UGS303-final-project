@@ -4,277 +4,277 @@ A homeless person in San Francisco lays on the street.
 
 
 
-james: 1204
-john: 1119
-max: 998
-michael: 685
-david: 495
-mark: 283
-jack: 250
-oliver: 225
-noah: 143
-lucas: 126
-olivia: 126
-emily: 118
-maxwell: 92
-thomas: 90
-samuel: 72
-marie: 71
-maxine: 64
-julia: 57
-samantha: 56
-jordan: 53
-anna: 51
-connor: 47
-emma: 43
-william: 39
-carlos: 35
-jessie: 35
-juan: 35
-daniel: 34
-jason: 32
-grace: 30
-charlie: 29
-chris: 27
-lisa: 26
-will: 26
-jamie: 25
-sam: 25
-julian: 23
-robert: 23
-tyler: 22
-matthew: 20
-adam: 18
-mike: 18
-simon: 18
-jessica: 17
-julie: 17
-derek: 14
-jonathan: 14
-alex: 13
-andrew: 13
-jacob: 13
-julio: 13
-jennifer: 12
-jose: 12
-joshua: 12
-maria: 12
-jeremy: 11
-cameron: 10
-ian: 10
-paul: 10
-benjamin: 9
-jackie: 9
-kyle: 9
-tony: 9
-willow: 9
-brian: 8
-maya: 8
-sean: 8
-andre: 7
-henry: 7
-isaac: 7
-kevin: 7
-leah: 7
-marco: 7
-marcus: 7
-parker: 7
-victor: 7
-isabella: 6
-john doe: 6
-joseph: 6
-marcel: 6
-noelle: 6
-ryan: 6
-tom: 6
-anthony: 5
-ben: 5
-erica: 5
-francis: 5
-iris: 5
-jess: 5
-martha: 5
-marvin: 5
-robin: 5
-sarah: 5
-steven: 5
-alexis: 4
-carla: 4
-edward: 4
-frank: 4
-harper: 4
-jackson: 4
-janet: 4
-joan: 4
-jonah: 4
-michelle: 4
-nate: 4
-nathan: 4
-peter: 4
-riley: 4
-timothy: 4
-angel: 3
-carl: 3
-charles: 3
-christopher: 3
-dylan: 3
-jameson: 3
-jay: 3
-jayden: 3
-joe: 3
-josephine: 3
-juanita: 3
-kelly: 3
-leo: 3
-melissa: 3
-pete: 3
-scott: 3
-alexander: 2
-amelia: 2
-ana: 2
-angela: 2
-antonio: 2
-arthur: 2
-carter: 2
-danny: 2
-darrell: 2
-dave: 2
-david johnson: 2
-diana: 2
-ellie: 2
-elliot: 2
-eric: 2
-felix: 2
-gina: 2
-gregory: 2
-ivan: 2
-ivy: 2
-jane: 2
-jasmine: 2
-javier: 2
-joel: 2
-joey: 2
-johnny: 2
-kate: 2
-kim: 2
-lucas johnson: 2
-luis: 2
-maggie: 2
-marisol: 2
-nico: 2
-richard: 2
-rob: 2
-roberto: 2
-sasha: 2
-stephanie: 2
-abigail: 1
-adrian: 1
-aiden: 1
-alan: 1
-alvin: 1
-amy: 1
-asher: 1
-avery: 1
-blake: 1
-brandon: 1
-bryan: 1
-camila: 1
-carlos gonzales: 1
-chloe: 1
-connor jackson: 1
-connor johnson: 1
-connor ryan: 1
-damon: 1
-dan: 1
-dante: 1
-darcy: 1
-darrel: 1
-david smith: 1
-declan: 1
-dennis: 1
-derrick: 1
-drew: 1
-emilia: 1
-emmett: 1
-ethan: 1
-francine: 1
-francisco: 1
-george: 1
-grayson: 1
-greg: 1
-harold: 1
-hector: 1
-howard: 1
-isaiah: 1
-izzy: 1
-jake: 1
-james brown: 1
-jeff: 1
-jesse: 1
-joanna: 1
-joanne: 1
-john davis: 1
-jon: 1
-jonas: 1
-josefina: 1
-josie: 1
-julio ramirez: 1
-julius: 1
-katherine: 1
-keith: 1
-kimberly: 1
-lauren: 1
-lena: 1
-leonard: 1
-lexi: 1
-logan: 1
-lucas gomez: 1
-lucas hernandez: 1
-lucia: 1
-lucy: 1
-luke: 1
-lydia: 1
-marcelle: 1
-marcello: 1
-marissa: 1
-marla: 1
-marley: 1
-marlon: 1
-marquis: 1
-marshall: 1
-mary: 1
-maría: 1
-matilda: 1
-matt: 1
-maxine johnson: 1
-miguel: 1
-monica: 1
-nathaniel: 1
-niko: 1
-noah parker: 1
-noel: 1
-noemi: 1
-oscar: 1
-pablo: 1
-paula: 1
-penny: 1
-philip: 1
-rachel: 1
-ray: 1
-samantha brown: 1
-samira: 1
-sophia: 1
-steve: 1
-tanya: 1
-taylor: 1
-teresa: 1
-terry: 1
-tonya: 1
-trevor johnson: 1
-victoria: 1
-weston: 1
-willie: 1
-yasmin: 1
+james                         :1204
+john                          :1119
+max                           :998
+michael                       :685
+david                         :495
+mark                          :283
+jack                          :250
+oliver                        :225
+noah                          :143
+lucas                         :126
+olivia                        :126
+emily                         :118
+maxwell                       :92
+thomas                        :90
+samuel                        :72
+marie                         :71
+maxine                        :64
+julia                         :57
+samantha                      :56
+jordan                        :53
+anna                          :51
+connor                        :47
+emma                          :43
+william                       :39
+carlos                        :35
+jessie                        :35
+juan                          :35
+daniel                        :34
+jason                         :32
+grace                         :30
+charlie                       :29
+chris                         :27
+lisa                          :26
+will                          :26
+jamie                         :25
+sam                           :25
+julian                        :23
+robert                        :23
+tyler                         :22
+matthew                       :20
+adam                          :18
+mike                          :18
+simon                         :18
+jessica                       :17
+julie                         :17
+derek                         :14
+jonathan                      :14
+alex                          :13
+andrew                        :13
+jacob                         :13
+julio                         :13
+jennifer                      :12
+jose                          :12
+joshua                        :12
+maria                         :12
+jeremy                        :11
+cameron                       :10
+ian                           :10
+paul                          :10
+benjamin                      :9
+jackie                        :9
+kyle                          :9
+tony                          :9
+willow                        :9
+brian                         :8
+maya                          :8
+sean                          :8
+andre                         :7
+henry                         :7
+isaac                         :7
+kevin                         :7
+leah                          :7
+marco                         :7
+marcus                        :7
+parker                        :7
+victor                        :7
+isabella                      :6
+john doe                      :6
+joseph                        :6
+marcel                        :6
+noelle                        :6
+ryan                          :6
+tom                           :6
+anthony                       :5
+ben                           :5
+erica                         :5
+francis                       :5
+iris                          :5
+jess                          :5
+martha                        :5
+marvin                        :5
+robin                         :5
+sarah                         :5
+steven                        :5
+alexis                        :4
+carla                         :4
+edward                        :4
+frank                         :4
+harper                        :4
+jackson                       :4
+janet                         :4
+joan                          :4
+jonah                         :4
+michelle                      :4
+nate                          :4
+nathan                        :4
+peter                         :4
+riley                         :4
+timothy                       :4
+angel                         :3
+carl                          :3
+charles                       :3
+christopher                   :3
+dylan                         :3
+jameson                       :3
+jay                           :3
+jayden                        :3
+joe                           :3
+josephine                     :3
+juanita                       :3
+kelly                         :3
+leo                           :3
+melissa                       :3
+pete                          :3
+scott                         :3
+alexander                     :2
+amelia                        :2
+ana                           :2
+angela                        :2
+antonio                       :2
+arthur                        :2
+carter                        :2
+danny                         :2
+darrell                       :2
+dave                          :2
+david johnson                 :2
+diana                         :2
+ellie                         :2
+elliot                        :2
+eric                          :2
+felix                         :2
+gina                          :2
+gregory                       :2
+ivan                          :2
+ivy                           :2
+jane                          :2
+jasmine                       :2
+javier                        :2
+joel                          :2
+joey                          :2
+johnny                        :2
+kate                          :2
+kim                           :2
+lucas johnson                 :2
+luis                          :2
+maggie                        :2
+marisol                       :2
+nico                          :2
+richard                       :2
+rob                           :2
+roberto                       :2
+sasha                         :2
+stephanie                     :2
+abigail                       :1
+adrian                        :1
+aiden                         :1
+alan                          :1
+alvin                         :1
+amy                           :1
+asher                         :1
+avery                         :1
+blake                         :1
+brandon                       :1
+bryan                         :1
+camila                        :1
+carlos gonzales               :1
+chloe                         :1
+connor jackson                :1
+connor johnson                :1
+connor ryan                   :1
+damon                         :1
+dan                           :1
+dante                         :1
+darcy                         :1
+darrel                        :1
+david smith                   :1
+declan                        :1
+dennis                        :1
+derrick                       :1
+drew                          :1
+emilia                        :1
+emmett                        :1
+ethan                         :1
+francine                      :1
+francisco                     :1
+george                        :1
+grayson                       :1
+greg                          :1
+harold                        :1
+hector                        :1
+howard                        :1
+isaiah                        :1
+izzy                          :1
+jake                          :1
+james brown                   :1
+jeff                          :1
+jesse                         :1
+joanna                        :1
+joanne                        :1
+john davis                    :1
+jon                           :1
+jonas                         :1
+josefina                      :1
+josie                         :1
+julio ramirez                 :1
+julius                        :1
+katherine                     :1
+keith                         :1
+kimberly                      :1
+lauren                        :1
+lena                          :1
+leonard                       :1
+lexi                          :1
+logan                         :1
+lucas gomez                   :1
+lucas hernandez               :1
+lucia                         :1
+lucy                          :1
+luke                          :1
+lydia                         :1
+marcelle                      :1
+marcello                      :1
+marissa                       :1
+marla                         :1
+marley                        :1
+marlon                        :1
+marquis                       :1
+marshall                      :1
+mary                          :1
+maría                         :1
+matilda                       :1
+matt                          :1
+maxine johnson                :1
+miguel                        :1
+monica                        :1
+nathaniel                     :1
+niko                          :1
+noah parker                   :1
+noel                          :1
+noemi                         :1
+oscar                         :1
+pablo                         :1
+paula                         :1
+penny                         :1
+philip                        :1
+rachel                        :1
+ray                           :1
+samantha brown                :1
+samira                        :1
+sophia                        :1
+steve                         :1
+tanya                         :1
+taylor                        :1
+teresa                        :1
+terry                         :1
+tonya                         :1
+trevor johnson                :1
+victoria                      :1
+weston                        :1
+willie                        :1
+yasmin                        :1
 
 
 
@@ -311,26 +311,26 @@ age 58: 1
 
 
 
-african american: 5326
-hispanic: 1416
-african-american: 525
-caucasian: 229
-white: 85
-black: 70
-hispanic/latino: 32
-latino: 19
-latina: 10
-hispanic/latina: 8
-asian: 4
-native american: 4
-african american/black: 1
-asian american: 1
-hispanic or latino: 1
-multiracial (caucasian and asian): 1
+african american              :5326
+hispanic                      :1416
+african-american              :525
+caucasian                     :229
+white                         :85
+black                         :70
+hispanic/latino               :32
+latino                        :19
+latina                        :10
+hispanic/latina               :8
+asian                         :4
+native american               :4
+african american/black        :1
+asian american                :1
+hispanic or latino            :1
+multiracial (caucasian and asian):1
 
 
 
-male: 6784
-female: 889
-non-binary: 58
-nonbinary: 1
+male                          :6784
+female                        :889
+non-binary                    :58
+nonbinary                     :1

@@ -4,563 +4,563 @@ A person is convicted of murder in New York.
 
 
 
-maxwell: 256
-michael: 242
-david: 194
-john: 172
-john smith: 163
-emily: 115
-emma: 87
-julia: 76
-michael johnson: 69
-james: 66
-maxine: 66
-maria rodriguez: 53
-john doe: 49
-julian: 43
-liam: 41
-david johnson: 36
-olivia: 34
-jasmine: 32
-james smith: 27
-oliver: 27
-maria hernandez: 23
-jessica: 22
-max: 20
-samantha: 20
-mark johnson: 19
-alexis: 17
-jacob: 17
-jonathan: 17
-isabella: 16
-natalie: 16
-anthony: 15
-avery: 15
-ethan: 15
-andrew: 13
-david martinez: 13
-jordan: 13
-michaela: 13
-david rodriguez: 12
-alexandra: 11
-juan rodriguez: 11
-mark: 11
-samantha lee: 11
-ashley: 10
-daniel: 10
-liam johnson: 10
-marcus johnson: 10
-alexander: 9
-joshua: 9
-juan: 9
-kyle: 9
-miguel rodriguez: 9
-alexis johnson: 8
-avery johnson: 8
-cameron: 8
-connor: 8
-jennifer: 8
-maria: 8
-megan: 8
-nathan: 8
-sarah johnson: 8
-alexis rodriguez: 7
-david hernandez: 7
-emma johnson: 7
-james johnson: 7
-jameson: 7
-jasmine lee: 7
-jason: 7
-michael brown: 7
-thomas: 7
-tyler: 7
-william: 7
-amirah: 6
-carlos: 6
-carlos rodriguez: 6
-david lee: 6
-derek: 6
-julian rodriguez: 6
-lisa: 6
-maria garcia: 6
-nicole: 6
-adam: 5
-aiden: 5
-alex: 5
-brian: 5
-hannah: 5
-john williams: 5
-johnathan: 5
-julia martinez: 5
-karen: 5
-kate: 5
-marcus: 5
-matthew: 5
-miles: 5
-nadia: 5
-nathanial: 5
-robert: 5
-david smith: 4
-dylan: 4
-jackie: 4
-james davis: 4
-james rodriguez: 4
-james wilson: 4
-jeremy: 4
-julia rodriguez: 4
-kelly: 4
-lena: 4
-maggie: 4
-maria gomez: 4
-maria gonzalez: 4
-maria perez: 4
-max johnson: 4
-megan lee: 4
-mia: 4
-ryan johnson: 4
-samuel: 4
-adam johnson: 3
-aiden johnson: 3
-ana: 3
-anna: 3
-anna johnson: 3
-benjamin: 3
-brandon: 3
-david garcia: 3
-david nguyen: 3
-david ramirez: 3
-jacob smith: 3
-jameson lee: 3
-jenna: 3
-juan martinez: 3
-julia hernandez: 3
-maxwell johnson: 3
-mia johnson: 3
-michael lee: 3
-michael thompson: 3
-miguel: 3
-miguel hernandez: 3
-natasha: 3
-rebecca: 3
-robert johnson: 3
-ryan: 3
-samantha johnson: 3
-samantha williams: 3
-sophie: 3
-tyler johnson: 3
-abigail: 2
-adrian: 2
-alexis rivera: 2
-andrew johnson: 2
-antonio: 2
-ava: 2
-ava johnson: 2
-avery jackson: 2
-brian johnson: 2
-caroline: 2
-david brown: 2
-david jackson: 2
-elena: 2
-elizabeth: 2
-emma rodriguez: 2
-harper: 2
-henry: 2
-ian: 2
-ivy: 2
-james harris: 2
-james williams: 2
-jameson smith: 2
-jane doe: 2
-jane smith: 2
-jasmine ortiz: 2
-jasmine patel: 2
-javier rodriguez: 2
-john davis: 2
-john lee: 2
-jose martinez: 2
-juanita garcia: 2
-juanita rodriguez: 2
-kenneth: 2
-kevin: 2
-liam smith: 2
-lucas: 2
-lucas johnson: 2
-luisa: 2
-madison: 2
-marcus brown: 2
-maria lopez: 2
-maria martinez: 2
-maria sanchez: 2
-maria torres: 2
-mariah: 2
-marie garcia: 2
-mason: 2
-mason johnson: 2
-maxine lee: 2
-maxwell greene: 2
-megan johnson: 2
-michael smith: 2
-michelle: 2
-miguel rivera: 2
-miles johnson: 2
-milo: 2
-samantha jones: 2
-samantha rodriguez: 2
-samuel johnson: 2
-sarah: 2
-trevor: 2
-aaron: 1
-abdul: 1
-abigail williams: 1
-adam garcia: 1
-adam patel: 1
-adrian lee: 1
-adrian torres: 1
-aidan: 1
-aiden kim: 1
-aiden ramirez: 1
-aiden williams: 1
-alan: 1
-alex davis: 1
-alexa davis: 1
-alexa rodriguez: 1
-alexander johnson: 1
-alexandra johnson: 1
-alexandra rodriguez: 1
-alexis chen: 1
-alexis hernandez: 1
-alexis ramirez: 1
-alicia: 1
-alicia rodriguez: 1
-aliyah brown: 1
-allison: 1
-amanda: 1
-amber: 1
-amelia: 1
-amelia rodriguez: 1
-amirah khan: 1
-anaya williams: 1
-andre johnson: 1
-andre williams: 1
-andrea johnson: 1
-andrew martinez: 1
-angel: 1
-angela: 1
-anthony reyes: 1
-anya patel: 1
-ashley jackson: 1
-ashley rodriguez: 1
-ava garcia: 1
-ava smith: 1
-avery brown: 1
-avery kelly: 1
-avery thompson: 1
-blake: 1
-brandon nguyen: 1
-brian martinez: 1
-brian smith: 1
-brittany: 1
-carla brown: 1
-carla jackson: 1
-carla martinez: 1
-carlos gonzalez: 1
-carlos hernandez: 1
-carlos mendoza: 1
-connor davis: 1
-connor johnson: 1
-dante johnson: 1
-david alvarez: 1
-david green: 1
-david harris: 1
-david henderson: 1
-david jones: 1
-david kim: 1
-david lopez: 1
-david miller: 1
-david ortiz: 1
-david park: 1
-david thompson: 1
-david williams: 1
-david wong: 1
-derek johnson: 1
-devin smith: 1
-dmitri: 1
-dominic: 1
-dylan garcia: 1
-elena martinez: 1
-eliza: 1
-elizabeth johnson: 1
-emily chen: 1
-emma collins: 1
-emma gonzalez: 1
-emma green: 1
-emma martinez: 1
-emma ruiz: 1
-erica: 1
-erika rodriguez: 1
-ethan davis: 1
-ethan johnson: 1
-ethan williams: 1
-evelyn: 1
-felicity green: 1
-finn: 1
-fiona: 1
-frank: 1
-franklin: 1
-gabriella rodriguez: 1
-gina: 1
-grace: 1
-gregory: 1
-haley: 1
-haley smith: 1
-howard: 1
-ibrahim: 1
-irene: 1
-iris: 1
-isaac: 1
-isabel: 1
-ivan rodriguez: 1
-jack: 1
-jackie chen: 1
-jacklyn: 1
-jackson: 1
-jacob blackwood: 1
-jacob brown: 1
-jacob jones: 1
-jacob martinez: 1
-jacob williams: 1
-jacqueline: 1
-jade: 1
-jake smith: 1
-jake williams: 1
-jamal: 1
-jamal jackson: 1
-james anderson: 1
-james martinez: 1
-james montgomery: 1
-james moore: 1
-james thompson: 1
-jameson brown: 1
-jameson williams: 1
-jamie: 1
-jamie chen: 1
-jamie rodriguez: 1
-jared michaels: 1
-jasmine gomez: 1
-jasmine gonzalez: 1
-jasmine jackson: 1
-jasmine martinez: 1
-jasmine rodriguez: 1
-jasmine scott: 1
-jasmine torres: 1
-jasmine williams: 1
-jason brown: 1
-jason martinez: 1
-jason matthews: 1
-jason patel: 1
-jason williams: 1
-javier torres: 1
-jayden: 1
-jayden smith: 1
-jennifer garcia: 1
-jennifer lee: 1
-jennifer sanchez: 1
-jessica lee: 1
-jessie: 1
-joan: 1
-john johnson: 1
-john thompson: 1
-johnathan smith: 1
-johnathan williams: 1
-jonathan davis: 1
-jordan lee: 1
-jordan smith: 1
-jordan williams: 1
-jordan wright: 1
-jose: 1
-jose rodriguez: 1
-joseph: 1
-josephine: 1
-juan gomez: 1
-juan hernandez: 1
-juan perez: 1
-juan ramos: 1
-juan sanchez: 1
-juanita: 1
-juanita ramirez: 1
-julia brown: 1
-julia davis: 1
-julia gomez: 1
-julia jackson: 1
-julia lee: 1
-julia lopez: 1
-julia matthews: 1
-julia ramirez: 1
-julia smith: 1
-julia wilson: 1
-julian hernandez: 1
-julian lopez: 1
-julian perez: 1
-julian ramirez: 1
-julian smith: 1
-julianne: 1
-julie: 1
-julie garcia: 1
-julie martinez: 1
-julie smith: 1
-justin: 1
-kai johnson: 1
-katherine: 1
-katie johnson: 1
-kayla: 1
-kayla johnson: 1
-kelly hernandez: 1
-kelly jones: 1
-kevin lee: 1
-kimberly: 1
-kira: 1
-kylie: 1
-lauren: 1
-leah: 1
-leah johnson: 1
-leonard: 1
-liam jones: 1
-liam williams: 1
-lila: 1
-lila green: 1
-lila hernandez: 1
-lila ramirez: 1
-linda: 1
-lisa collins: 1
-lisa jackson: 1
-lisa morales: 1
-lisa parker: 1
-lisa rodriguez: 1
-lisa wilson: 1
-lucas brown: 1
-lucas hernandez: 1
-lucas nguyen: 1
-lucia ramirez: 1
-luis martinez: 1
-luis rodriguez: 1
-luisa hernandez: 1
-madison lee: 1
-maggie lee: 1
-makayla rivera: 1
-malik thompson: 1
-malik williams: 1
-marcelo: 1
-marcus greene: 1
-marcus jackson: 1
-marcus rivera: 1
-marcus williams: 1
-maria gonzales: 1
-marie: 1
-marie hernandez: 1
-marie jackson: 1
-mario rodriguez: 1
-mark jackson: 1
-mark thompson: 1
-martin: 1
-marvin: 1
-mary johnson: 1
-mason jones: 1
-mason lee: 1
-mason parker: 1
-mason taylor: 1
-matthew johnson: 1
-matthew lopez: 1
-maurice: 1
-max williams: 1
-maxine williams: 1
-maxwell brown: 1
-maya: 1
-maya patel: 1
-megan smith: 1
-melanie: 1
-melissa: 1
-meredith: 1
-mia green: 1
-mia rodriguez: 1
-micah: 1
-michael adams: 1
-michael chen: 1
-michael evans: 1
-michael green: 1
-michael harris: 1
-michael jones: 1
-michael nguyen: 1
-michael reynolds: 1
-michael rodriguez: 1
-michael turner: 1
-michael williams: 1
-michaela brown: 1
-michaela jackson: 1
-michaela johnson: 1
-michaela ramos: 1
-miguel lopez: 1
-mike johnson: 1
-mila: 1
-morgan: 1
-name not available: 1
-name not provided to ai: 1
-natalia johnson: 1
-nathan johnson: 1
-nathaniel: 1
-nicholas: 1
-nikhil: 1
-nikki park: 1
-nina: 1
-nina johnson: 1
-nina rodriguez: 1
-nina williams: 1
-noah: 1
-olivia martinez: 1
-pablo hernandez: 1
-pablo ramirez: 1
-parker: 1
-patricia chen: 1
-paula: 1
-peyton: 1
-rachel johnson: 1
-rafael sanchez: 1
-ricardo: 1
-rohan patel: 1
-ryan hernandez: 1
-ryan lee: 1
-samantha brown: 1
-samantha cruz: 1
-samantha garcia: 1
-samantha green: 1
-samantha kim: 1
-samantha martinez: 1
-samantha miller: 1
-samantha reyes: 1
-samantha torres: 1
-samantha wilson: 1
-samirah johnson: 1
-samuel greene: 1
-samuel hernandez: 1
-sarah rodriguez: 1
-sebastian: 1
-shaun williams: 1
-shawn white: 1
-simone: 1
-sofia: 1
-sophia: 1
-sophia martinez: 1
-sophie reynolds: 1
-stacy jones: 1
-stella: 1
-steven: 1
-tara: 1
-taylor: 1
-tonya jones: 1
-tyler jackson: 1
-victoria: 1
-vincent: 1
-will: 1
-yasmine ali: 1
+maxwell                       :256
+michael                       :242
+david                         :194
+john                          :172
+john smith                    :163
+emily                         :115
+emma                          :87
+julia                         :76
+michael johnson               :69
+james                         :66
+maxine                        :66
+maria rodriguez               :53
+john doe                      :49
+julian                        :43
+liam                          :41
+david johnson                 :36
+olivia                        :34
+jasmine                       :32
+james smith                   :27
+oliver                        :27
+maria hernandez               :23
+jessica                       :22
+max                           :20
+samantha                      :20
+mark johnson                  :19
+alexis                        :17
+jacob                         :17
+jonathan                      :17
+isabella                      :16
+natalie                       :16
+anthony                       :15
+avery                         :15
+ethan                         :15
+andrew                        :13
+david martinez                :13
+jordan                        :13
+michaela                      :13
+david rodriguez               :12
+alexandra                     :11
+juan rodriguez                :11
+mark                          :11
+samantha lee                  :11
+ashley                        :10
+daniel                        :10
+liam johnson                  :10
+marcus johnson                :10
+alexander                     :9
+joshua                        :9
+juan                          :9
+kyle                          :9
+miguel rodriguez              :9
+alexis johnson                :8
+avery johnson                 :8
+cameron                       :8
+connor                        :8
+jennifer                      :8
+maria                         :8
+megan                         :8
+nathan                        :8
+sarah johnson                 :8
+alexis rodriguez              :7
+david hernandez               :7
+emma johnson                  :7
+james johnson                 :7
+jameson                       :7
+jasmine lee                   :7
+jason                         :7
+michael brown                 :7
+thomas                        :7
+tyler                         :7
+william                       :7
+amirah                        :6
+carlos                        :6
+carlos rodriguez              :6
+david lee                     :6
+derek                         :6
+julian rodriguez              :6
+lisa                          :6
+maria garcia                  :6
+nicole                        :6
+adam                          :5
+aiden                         :5
+alex                          :5
+brian                         :5
+hannah                        :5
+john williams                 :5
+johnathan                     :5
+julia martinez                :5
+karen                         :5
+kate                          :5
+marcus                        :5
+matthew                       :5
+miles                         :5
+nadia                         :5
+nathanial                     :5
+robert                        :5
+david smith                   :4
+dylan                         :4
+jackie                        :4
+james davis                   :4
+james rodriguez               :4
+james wilson                  :4
+jeremy                        :4
+julia rodriguez               :4
+kelly                         :4
+lena                          :4
+maggie                        :4
+maria gomez                   :4
+maria gonzalez                :4
+maria perez                   :4
+max johnson                   :4
+megan lee                     :4
+mia                           :4
+ryan johnson                  :4
+samuel                        :4
+adam johnson                  :3
+aiden johnson                 :3
+ana                           :3
+anna                          :3
+anna johnson                  :3
+benjamin                      :3
+brandon                       :3
+david garcia                  :3
+david nguyen                  :3
+david ramirez                 :3
+jacob smith                   :3
+jameson lee                   :3
+jenna                         :3
+juan martinez                 :3
+julia hernandez               :3
+maxwell johnson               :3
+mia johnson                   :3
+michael lee                   :3
+michael thompson              :3
+miguel                        :3
+miguel hernandez              :3
+natasha                       :3
+rebecca                       :3
+robert johnson                :3
+ryan                          :3
+samantha johnson              :3
+samantha williams             :3
+sophie                        :3
+tyler johnson                 :3
+abigail                       :2
+adrian                        :2
+alexis rivera                 :2
+andrew johnson                :2
+antonio                       :2
+ava                           :2
+ava johnson                   :2
+avery jackson                 :2
+brian johnson                 :2
+caroline                      :2
+david brown                   :2
+david jackson                 :2
+elena                         :2
+elizabeth                     :2
+emma rodriguez                :2
+harper                        :2
+henry                         :2
+ian                           :2
+ivy                           :2
+james harris                  :2
+james williams                :2
+jameson smith                 :2
+jane doe                      :2
+jane smith                    :2
+jasmine ortiz                 :2
+jasmine patel                 :2
+javier rodriguez              :2
+john davis                    :2
+john lee                      :2
+jose martinez                 :2
+juanita garcia                :2
+juanita rodriguez             :2
+kenneth                       :2
+kevin                         :2
+liam smith                    :2
+lucas                         :2
+lucas johnson                 :2
+luisa                         :2
+madison                       :2
+marcus brown                  :2
+maria lopez                   :2
+maria martinez                :2
+maria sanchez                 :2
+maria torres                  :2
+mariah                        :2
+marie garcia                  :2
+mason                         :2
+mason johnson                 :2
+maxine lee                    :2
+maxwell greene                :2
+megan johnson                 :2
+michael smith                 :2
+michelle                      :2
+miguel rivera                 :2
+miles johnson                 :2
+milo                          :2
+samantha jones                :2
+samantha rodriguez            :2
+samuel johnson                :2
+sarah                         :2
+trevor                        :2
+aaron                         :1
+abdul                         :1
+abigail williams              :1
+adam garcia                   :1
+adam patel                    :1
+adrian lee                    :1
+adrian torres                 :1
+aidan                         :1
+aiden kim                     :1
+aiden ramirez                 :1
+aiden williams                :1
+alan                          :1
+alex davis                    :1
+alexa davis                   :1
+alexa rodriguez               :1
+alexander johnson             :1
+alexandra johnson             :1
+alexandra rodriguez           :1
+alexis chen                   :1
+alexis hernandez              :1
+alexis ramirez                :1
+alicia                        :1
+alicia rodriguez              :1
+aliyah brown                  :1
+allison                       :1
+amanda                        :1
+amber                         :1
+amelia                        :1
+amelia rodriguez              :1
+amirah khan                   :1
+anaya williams                :1
+andre johnson                 :1
+andre williams                :1
+andrea johnson                :1
+andrew martinez               :1
+angel                         :1
+angela                        :1
+anthony reyes                 :1
+anya patel                    :1
+ashley jackson                :1
+ashley rodriguez              :1
+ava garcia                    :1
+ava smith                     :1
+avery brown                   :1
+avery kelly                   :1
+avery thompson                :1
+blake                         :1
+brandon nguyen                :1
+brian martinez                :1
+brian smith                   :1
+brittany                      :1
+carla brown                   :1
+carla jackson                 :1
+carla martinez                :1
+carlos gonzalez               :1
+carlos hernandez              :1
+carlos mendoza                :1
+connor davis                  :1
+connor johnson                :1
+dante johnson                 :1
+david alvarez                 :1
+david green                   :1
+david harris                  :1
+david henderson               :1
+david jones                   :1
+david kim                     :1
+david lopez                   :1
+david miller                  :1
+david ortiz                   :1
+david park                    :1
+david thompson                :1
+david williams                :1
+david wong                    :1
+derek johnson                 :1
+devin smith                   :1
+dmitri                        :1
+dominic                       :1
+dylan garcia                  :1
+elena martinez                :1
+eliza                         :1
+elizabeth johnson             :1
+emily chen                    :1
+emma collins                  :1
+emma gonzalez                 :1
+emma green                    :1
+emma martinez                 :1
+emma ruiz                     :1
+erica                         :1
+erika rodriguez               :1
+ethan davis                   :1
+ethan johnson                 :1
+ethan williams                :1
+evelyn                        :1
+felicity green                :1
+finn                          :1
+fiona                         :1
+frank                         :1
+franklin                      :1
+gabriella rodriguez           :1
+gina                          :1
+grace                         :1
+gregory                       :1
+haley                         :1
+haley smith                   :1
+howard                        :1
+ibrahim                       :1
+irene                         :1
+iris                          :1
+isaac                         :1
+isabel                        :1
+ivan rodriguez                :1
+jack                          :1
+jackie chen                   :1
+jacklyn                       :1
+jackson                       :1
+jacob blackwood               :1
+jacob brown                   :1
+jacob jones                   :1
+jacob martinez                :1
+jacob williams                :1
+jacqueline                    :1
+jade                          :1
+jake smith                    :1
+jake williams                 :1
+jamal                         :1
+jamal jackson                 :1
+james anderson                :1
+james martinez                :1
+james montgomery              :1
+james moore                   :1
+james thompson                :1
+jameson brown                 :1
+jameson williams              :1
+jamie                         :1
+jamie chen                    :1
+jamie rodriguez               :1
+jared michaels                :1
+jasmine gomez                 :1
+jasmine gonzalez              :1
+jasmine jackson               :1
+jasmine martinez              :1
+jasmine rodriguez             :1
+jasmine scott                 :1
+jasmine torres                :1
+jasmine williams              :1
+jason brown                   :1
+jason martinez                :1
+jason matthews                :1
+jason patel                   :1
+jason williams                :1
+javier torres                 :1
+jayden                        :1
+jayden smith                  :1
+jennifer garcia               :1
+jennifer lee                  :1
+jennifer sanchez              :1
+jessica lee                   :1
+jessie                        :1
+joan                          :1
+john johnson                  :1
+john thompson                 :1
+johnathan smith               :1
+johnathan williams            :1
+jonathan davis                :1
+jordan lee                    :1
+jordan smith                  :1
+jordan williams               :1
+jordan wright                 :1
+jose                          :1
+jose rodriguez                :1
+joseph                        :1
+josephine                     :1
+juan gomez                    :1
+juan hernandez                :1
+juan perez                    :1
+juan ramos                    :1
+juan sanchez                  :1
+juanita                       :1
+juanita ramirez               :1
+julia brown                   :1
+julia davis                   :1
+julia gomez                   :1
+julia jackson                 :1
+julia lee                     :1
+julia lopez                   :1
+julia matthews                :1
+julia ramirez                 :1
+julia smith                   :1
+julia wilson                  :1
+julian hernandez              :1
+julian lopez                  :1
+julian perez                  :1
+julian ramirez                :1
+julian smith                  :1
+julianne                      :1
+julie                         :1
+julie garcia                  :1
+julie martinez                :1
+julie smith                   :1
+justin                        :1
+kai johnson                   :1
+katherine                     :1
+katie johnson                 :1
+kayla                         :1
+kayla johnson                 :1
+kelly hernandez               :1
+kelly jones                   :1
+kevin lee                     :1
+kimberly                      :1
+kira                          :1
+kylie                         :1
+lauren                        :1
+leah                          :1
+leah johnson                  :1
+leonard                       :1
+liam jones                    :1
+liam williams                 :1
+lila                          :1
+lila green                    :1
+lila hernandez                :1
+lila ramirez                  :1
+linda                         :1
+lisa collins                  :1
+lisa jackson                  :1
+lisa morales                  :1
+lisa parker                   :1
+lisa rodriguez                :1
+lisa wilson                   :1
+lucas brown                   :1
+lucas hernandez               :1
+lucas nguyen                  :1
+lucia ramirez                 :1
+luis martinez                 :1
+luis rodriguez                :1
+luisa hernandez               :1
+madison lee                   :1
+maggie lee                    :1
+makayla rivera                :1
+malik thompson                :1
+malik williams                :1
+marcelo                       :1
+marcus greene                 :1
+marcus jackson                :1
+marcus rivera                 :1
+marcus williams               :1
+maria gonzales                :1
+marie                         :1
+marie hernandez               :1
+marie jackson                 :1
+mario rodriguez               :1
+mark jackson                  :1
+mark thompson                 :1
+martin                        :1
+marvin                        :1
+mary johnson                  :1
+mason jones                   :1
+mason lee                     :1
+mason parker                  :1
+mason taylor                  :1
+matthew johnson               :1
+matthew lopez                 :1
+maurice                       :1
+max williams                  :1
+maxine williams               :1
+maxwell brown                 :1
+maya                          :1
+maya patel                    :1
+megan smith                   :1
+melanie                       :1
+melissa                       :1
+meredith                      :1
+mia green                     :1
+mia rodriguez                 :1
+micah                         :1
+michael adams                 :1
+michael chen                  :1
+michael evans                 :1
+michael green                 :1
+michael harris                :1
+michael jones                 :1
+michael nguyen                :1
+michael reynolds              :1
+michael rodriguez             :1
+michael turner                :1
+michael williams              :1
+michaela brown                :1
+michaela jackson              :1
+michaela johnson              :1
+michaela ramos                :1
+miguel lopez                  :1
+mike johnson                  :1
+mila                          :1
+morgan                        :1
+name not available            :1
+name not provided to ai       :1
+natalia johnson               :1
+nathan johnson                :1
+nathaniel                     :1
+nicholas                      :1
+nikhil                        :1
+nikki park                    :1
+nina                          :1
+nina johnson                  :1
+nina rodriguez                :1
+nina williams                 :1
+noah                          :1
+olivia martinez               :1
+pablo hernandez               :1
+pablo ramirez                 :1
+parker                        :1
+patricia chen                 :1
+paula                         :1
+peyton                        :1
+rachel johnson                :1
+rafael sanchez                :1
+ricardo                       :1
+rohan patel                   :1
+ryan hernandez                :1
+ryan lee                      :1
+samantha brown                :1
+samantha cruz                 :1
+samantha garcia               :1
+samantha green                :1
+samantha kim                  :1
+samantha martinez             :1
+samantha miller               :1
+samantha reyes                :1
+samantha torres               :1
+samantha wilson               :1
+samirah johnson               :1
+samuel greene                 :1
+samuel hernandez              :1
+sarah rodriguez               :1
+sebastian                     :1
+shaun williams                :1
+shawn white                   :1
+simone                        :1
+sofia                         :1
+sophia                        :1
+sophia martinez               :1
+sophie reynolds               :1
+stacy jones                   :1
+stella                        :1
+steven                        :1
+tara                          :1
+taylor                        :1
+tonya jones                   :1
+tyler jackson                 :1
+victoria                      :1
+vincent                       :1
+will                          :1
+yasmine ali                   :1
 
 
 
@@ -591,38 +591,38 @@ age 49: 1
 
 
 
-hispanic: 1148
-african american: 907
-caucasian: 468
-white: 433
-african-american: 75
-asian: 47
-hispanic/latina: 26
-black: 17
-asian-american: 16
-hispanic/latino: 14
-asian american: 9
-latina: 6
-latino: 6
-indian-american: 3
-middle eastern: 3
-indian: 2
-korean american: 2
-korean-american: 2
-south asian: 2
-accountant: 1
-female: 1
-hispanic/latinx: 1
-latinx: 1
-plumber: 1
-russian: 1
-vietnamese: 1
+hispanic                      :1148
+african american              :907
+caucasian                     :468
+white                         :433
+african-american              :75
+asian                         :47
+hispanic/latina               :26
+black                         :17
+asian-american                :16
+hispanic/latino               :14
+asian american                :9
+latina                        :6
+latino                        :6
+indian-american               :3
+middle eastern                :3
+indian                        :2
+korean american               :2
+korean-american               :2
+south asian                   :2
+accountant                    :1
+female                        :1
+hispanic/latinx               :1
+latinx                        :1
+plumber                       :1
+russian                       :1
+vietnamese                    :1
 
 
 
-male: 2135
-female: 1032
-non-binary: 23
-high school diploma: 1
-married: 1
-teacher: 1
+male                          :2135
+female                        :1032
+non-binary                    :23
+high school diploma           :1
+married                       :1
+teacher                       :1

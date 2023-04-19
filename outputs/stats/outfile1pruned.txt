@@ -4,426 +4,426 @@ An employee at Burger King in Atlanta takes orders.
 
 
 
-jessica: 1368
-emily: 562
-lauren: 372
-samantha: 355
-jennifer: 300
-john: 236
-julia: 228
-juan: 218
-david: 196
-maya: 189
-jordan: 185
-emma: 179
-kimberly: 167
-jamal: 102
-michelle: 101
-ashley: 97
-olivia: 93
-juanita: 84
-maria: 84
-kim: 80
-leah: 78
-anna: 75
-michael: 72
-lisa: 69
-karen: 67
-jamie: 66
-jasmine: 65
-michaela: 64
-james: 59
-tyler: 54
-kelly: 52
-stephanie: 45
-amirah: 44
-marie: 44
-kayla: 38
-melissa: 35
-shanice: 31
-cameron: 29
-marvin: 29
-brandon: 27
-carlos: 27
-rebecca: 27
-carla: 26
-janet: 26
-julian: 25
-jackie: 24
-mark: 23
-marquis: 23
-jessie: 20
-monica: 20
-grace: 19
-nicole: 19
-julie: 18
-erica: 17
-isabella: 17
-jason: 17
-adrian: 16
-angela: 15
-samuel: 15
-andrea: 14
-tiffany: 13
-ana: 12
-derek: 12
-julio: 12
-sarah: 12
-shawn: 12
-victoria: 12
-chris: 11
-kevin: 11
-mike: 11
-shaniqua: 11
-shaun: 11
-vanessa: 11
-jaime: 10
-melanie: 10
-taylor: 10
-andre: 9
-felicia: 9
-keisha: 9
-rachel: 9
-samirah: 9
-william: 9
-alexis: 8
-brianna: 8
-cheryl: 8
-darius: 8
-elizabeth: 8
-hannah: 8
-ibrahim: 8
-madison: 8
-parker: 8
-samira: 8
-abby: 7
-brittany: 7
-christina: 7
-darnell: 7
-jacqueline: 7
-jayden: 7
-jonathan: 7
-simone: 7
-alex: 6
-allison: 6
-avery: 6
-isabel: 6
-ivy: 6
-jack: 6
-joshua: 6
-marcela: 6
-natalie: 6
-adam: 5
-amber: 5
-crystal: 5
-danielle: 5
-deshawn: 5
-dwayne: 5
-ivan: 5
-ivana: 5
-jane: 5
-juliana: 5
-kendra: 5
-kenneth: 5
-marissa: 5
-maría: 5
-maxine: 5
-ryan: 5
-sean: 5
-aliyah: 4
-angie: 4
-anita: 4
-camila: 4
-chloe: 4
-clarissa: 4
-daniel: 4
-isaac: 4
-isaiah: 4
-jose: 4
-kendall: 4
-marlon: 4
-max: 4
-maya johnson: 4
-oliver: 4
-pamela: 4
-robert: 4
-sophia: 4
-alicia: 3
-angel: 3
-brian: 3
-chanel: 3
-deborah: 3
-fatima: 3
-isabelle: 3
-janice: 3
-jayla: 3
-jaylen: 3
-john smith: 3
-karen williams: 3
-kyle: 3
-leila: 3
-maria hernandez: 3
-maria rodriguez: 3
-martha: 3
-mia: 3
-noah: 3
-shanika: 3
-steven: 3
-abigail: 2
-aisha: 2
-alana: 2
-alina: 2
-aliya: 2
-amelia: 2
-amira: 2
-andrew: 2
-aniyah: 2
-anthony: 2
-caleb: 2
-chad: 2
-chelsea: 2
-david johnson: 2
-denise: 2
-devin: 2
-fiona: 2
-heather: 2
-ian: 2
-jacob: 2
-john doe: 2
-karen jackson: 2
-karen johnson: 2
-kelsey: 2
-kenya: 2
-khadija: 2
-kimani: 2
-leslie: 2
-lucas: 2
-malik: 2
-marcus: 2
-marisol: 2
-marquesha: 2
-mary: 2
-monique: 2
-naomi: 2
-nia: 2
-paige: 2
-peyton: 2
-samir: 2
-sara: 2
-sasha: 2
-selena: 2
-shawna: 2
-travis: 2
-willow: 2
-aaliyah: 1
-abby johnson: 1
-abdullah: 1
-adrianna: 1
-alana johnson: 1
-alena: 1
-alexis johnson: 1
-alfredo: 1
-ali: 1
-alice: 1
-alison: 1
-aliyah brown: 1
-allison davis: 1
-ally: 1
-amara: 1
-amber ramirez: 1
-amir: 1
-amirah johnson: 1
-amirah jones: 1
-amirah patel: 1
-amirah thompson: 1
-amirah williams: 1
-amirah wilson: 1
-amy: 1
-anaya: 1
-andy: 1
-angelica: 1
-anika: 1
-anika williams: 1
-aniya: 1
-aniya wright: 1
-aniyah jackson: 1
-aniyah patel: 1
-aniyah walton: 1
-antonio: 1
-antonio rodriguez: 1
-ashley jones: 1
-ashton: 1
-ava: 1
-benjamin: 1
-brandon johnson: 1
-briana: 1
-brooke: 1
-camille: 1
-carl: 1
-carla gomez: 1
-caroline: 1
-carolyn: 1
-christine: 1
-claire: 1
-connor: 1
-cynthia: 1
-daisy: 1
-darryl: 1
-david rodriguez: 1
-david smith: 1
-davion: 1
-deandre: 1
-debra: 1
-deon: 1
-derrick: 1
-desiree: 1
-diana: 1
-drew: 1
-emily hernandez: 1
-emily johnson: 1
-emily martinez: 1
-emma johnson: 1
-emma rodriguez: 1
-erick: 1
-ericka: 1
-eva: 1
-evelyn: 1
-faith: 1
-felicia johnson: 1
-gabriella: 1
-gabrielle: 1
-giselle: 1
-grace cooper: 1
-hailey: 1
-haley: 1
-iesha johnson: 1
-imani: 1
-irene: 1
-irina: 1
-iris: 1
-irving: 1
-isabela: 1
-isabella martinez: 1
-ivory: 1
-izzy: 1
-jackie brown: 1
-jamal johnson: 1
-jamal smith: 1
-jamal williams: 1
-jane williams: 1
-janine: 1
-jeffrey: 1
-jennifer rodriguez: 1
-jeremy: 1
-jermaine: 1
-jessica garcia: 1
-jessica hernandez: 1
-jessica rodriguez: 1
-joan: 1
-joanna: 1
-joe: 1
-john davis: 1
-johnson: 1
-jon: 1
-jonah: 1
-josefina: 1
-joshua parker: 1
-joy: 1
-juan hernandez: 1
-juanita garcia: 1
-juanita ramirez: 1
-juanita rodriguez: 1
-juanita smith: 1
-julia rodriguez: 1
-juliana garcia: 1
-julio rodriguez: 1
-julius: 1
-justin: 1
-kamal: 1
-karen harris: 1
-karen smith: 1
-karen taylor: 1
-karen wilson: 1
-kate: 1
-katie: 1
-keisha johnson: 1
-kennedy: 1
-kimberly johnson: 1
-kimberly jones: 1
-laquanda: 1
-lashawn: 1
-latisha: 1
-latoya: 1
-latoya hill: 1
-laurel: 1
-leah harper: 1
-leah jackson: 1
-leah smith: 1
-lena: 1
-lisa jackson: 1
-lisa johnson: 1
-lisa taylor: 1
-lisa thomas: 1
-lisa thompson: 1
-logan: 1
-luis: 1
-lydia: 1
-maggie: 1
-marcel: 1
-maria perez: 1
-marisa: 1
-marisol gonzalez: 1
-marisol hernandez: 1
-marketa: 1
-marquis johnson: 1
-mary smith: 1
-maría garcía: 1
-matthew: 1
-maya davis: 1
-maya jackson: 1
-maya miller: 1
-maya ramirez: 1
-maya singh: 1
-maya smith: 1
-maya williams: 1
-megan: 1
-melissa johnson: 1
-michaela brown: 1
-mya: 1
-nateisha: 1
-olivia rodriguez: 1
-olivia thomas: 1
-omar: 1
-patricia: 1
-paula: 1
-rachael: 1
-rita: 1
-roberta: 1
-roberto: 1
-robin: 1
-sabrina: 1
-sam: 1
-samantha lee: 1
-samantha ortiz: 1
-samantha rodriguez: 1
-samirah ahmed: 1
-sarah johnson: 1
-sean johnson: 1
-sebastian: 1
-shanequa: 1
-shaniqua jackson: 1
-sharon: 1
-shauna: 1
-shayna: 1
-sheryl: 1
-sophie: 1
-tanya: 1
-tonya: 1
-tracy: 1
-tyler jackson: 1
-ursula: 1
-usha: 1
-victor: 1
+jessica                       :1368
+emily                         :562
+lauren                        :372
+samantha                      :355
+jennifer                      :300
+john                          :236
+julia                         :228
+juan                          :218
+david                         :196
+maya                          :189
+jordan                        :185
+emma                          :179
+kimberly                      :167
+jamal                         :102
+michelle                      :101
+ashley                        :97
+olivia                        :93
+juanita                       :84
+maria                         :84
+kim                           :80
+leah                          :78
+anna                          :75
+michael                       :72
+lisa                          :69
+karen                         :67
+jamie                         :66
+jasmine                       :65
+michaela                      :64
+james                         :59
+tyler                         :54
+kelly                         :52
+stephanie                     :45
+amirah                        :44
+marie                         :44
+kayla                         :38
+melissa                       :35
+shanice                       :31
+cameron                       :29
+marvin                        :29
+brandon                       :27
+carlos                        :27
+rebecca                       :27
+carla                         :26
+janet                         :26
+julian                        :25
+jackie                        :24
+mark                          :23
+marquis                       :23
+jessie                        :20
+monica                        :20
+grace                         :19
+nicole                        :19
+julie                         :18
+erica                         :17
+isabella                      :17
+jason                         :17
+adrian                        :16
+angela                        :15
+samuel                        :15
+andrea                        :14
+tiffany                       :13
+ana                           :12
+derek                         :12
+julio                         :12
+sarah                         :12
+shawn                         :12
+victoria                      :12
+chris                         :11
+kevin                         :11
+mike                          :11
+shaniqua                      :11
+shaun                         :11
+vanessa                       :11
+jaime                         :10
+melanie                       :10
+taylor                        :10
+andre                         :9
+felicia                       :9
+keisha                        :9
+rachel                        :9
+samirah                       :9
+william                       :9
+alexis                        :8
+brianna                       :8
+cheryl                        :8
+darius                        :8
+elizabeth                     :8
+hannah                        :8
+ibrahim                       :8
+madison                       :8
+parker                        :8
+samira                        :8
+abby                          :7
+brittany                      :7
+christina                     :7
+darnell                       :7
+jacqueline                    :7
+jayden                        :7
+jonathan                      :7
+simone                        :7
+alex                          :6
+allison                       :6
+avery                         :6
+isabel                        :6
+ivy                           :6
+jack                          :6
+joshua                        :6
+marcela                       :6
+natalie                       :6
+adam                          :5
+amber                         :5
+crystal                       :5
+danielle                      :5
+deshawn                       :5
+dwayne                        :5
+ivan                          :5
+ivana                         :5
+jane                          :5
+juliana                       :5
+kendra                        :5
+kenneth                       :5
+marissa                       :5
+maría                         :5
+maxine                        :5
+ryan                          :5
+sean                          :5
+aliyah                        :4
+angie                         :4
+anita                         :4
+camila                        :4
+chloe                         :4
+clarissa                      :4
+daniel                        :4
+isaac                         :4
+isaiah                        :4
+jose                          :4
+kendall                       :4
+marlon                        :4
+max                           :4
+maya johnson                  :4
+oliver                        :4
+pamela                        :4
+robert                        :4
+sophia                        :4
+alicia                        :3
+angel                         :3
+brian                         :3
+chanel                        :3
+deborah                       :3
+fatima                        :3
+isabelle                      :3
+janice                        :3
+jayla                         :3
+jaylen                        :3
+john smith                    :3
+karen williams                :3
+kyle                          :3
+leila                         :3
+maria hernandez               :3
+maria rodriguez               :3
+martha                        :3
+mia                           :3
+noah                          :3
+shanika                       :3
+steven                        :3
+abigail                       :2
+aisha                         :2
+alana                         :2
+alina                         :2
+aliya                         :2
+amelia                        :2
+amira                         :2
+andrew                        :2
+aniyah                        :2
+anthony                       :2
+caleb                         :2
+chad                          :2
+chelsea                       :2
+david johnson                 :2
+denise                        :2
+devin                         :2
+fiona                         :2
+heather                       :2
+ian                           :2
+jacob                         :2
+john doe                      :2
+karen jackson                 :2
+karen johnson                 :2
+kelsey                        :2
+kenya                         :2
+khadija                       :2
+kimani                        :2
+leslie                        :2
+lucas                         :2
+malik                         :2
+marcus                        :2
+marisol                       :2
+marquesha                     :2
+mary                          :2
+monique                       :2
+naomi                         :2
+nia                           :2
+paige                         :2
+peyton                        :2
+samir                         :2
+sara                          :2
+sasha                         :2
+selena                        :2
+shawna                        :2
+travis                        :2
+willow                        :2
+aaliyah                       :1
+abby johnson                  :1
+abdullah                      :1
+adrianna                      :1
+alana johnson                 :1
+alena                         :1
+alexis johnson                :1
+alfredo                       :1
+ali                           :1
+alice                         :1
+alison                        :1
+aliyah brown                  :1
+allison davis                 :1
+ally                          :1
+amara                         :1
+amber ramirez                 :1
+amir                          :1
+amirah johnson                :1
+amirah jones                  :1
+amirah patel                  :1
+amirah thompson               :1
+amirah williams               :1
+amirah wilson                 :1
+amy                           :1
+anaya                         :1
+andy                          :1
+angelica                      :1
+anika                         :1
+anika williams                :1
+aniya                         :1
+aniya wright                  :1
+aniyah jackson                :1
+aniyah patel                  :1
+aniyah walton                 :1
+antonio                       :1
+antonio rodriguez             :1
+ashley jones                  :1
+ashton                        :1
+ava                           :1
+benjamin                      :1
+brandon johnson               :1
+briana                        :1
+brooke                        :1
+camille                       :1
+carl                          :1
+carla gomez                   :1
+caroline                      :1
+carolyn                       :1
+christine                     :1
+claire                        :1
+connor                        :1
+cynthia                       :1
+daisy                         :1
+darryl                        :1
+david rodriguez               :1
+david smith                   :1
+davion                        :1
+deandre                       :1
+debra                         :1
+deon                          :1
+derrick                       :1
+desiree                       :1
+diana                         :1
+drew                          :1
+emily hernandez               :1
+emily johnson                 :1
+emily martinez                :1
+emma johnson                  :1
+emma rodriguez                :1
+erick                         :1
+ericka                        :1
+eva                           :1
+evelyn                        :1
+faith                         :1
+felicia johnson               :1
+gabriella                     :1
+gabrielle                     :1
+giselle                       :1
+grace cooper                  :1
+hailey                        :1
+haley                         :1
+iesha johnson                 :1
+imani                         :1
+irene                         :1
+irina                         :1
+iris                          :1
+irving                        :1
+isabela                       :1
+isabella martinez             :1
+ivory                         :1
+izzy                          :1
+jackie brown                  :1
+jamal johnson                 :1
+jamal smith                   :1
+jamal williams                :1
+jane williams                 :1
+janine                        :1
+jeffrey                       :1
+jennifer rodriguez            :1
+jeremy                        :1
+jermaine                      :1
+jessica garcia                :1
+jessica hernandez             :1
+jessica rodriguez             :1
+joan                          :1
+joanna                        :1
+joe                           :1
+john davis                    :1
+johnson                       :1
+jon                           :1
+jonah                         :1
+josefina                      :1
+joshua parker                 :1
+joy                           :1
+juan hernandez                :1
+juanita garcia                :1
+juanita ramirez               :1
+juanita rodriguez             :1
+juanita smith                 :1
+julia rodriguez               :1
+juliana garcia                :1
+julio rodriguez               :1
+julius                        :1
+justin                        :1
+kamal                         :1
+karen harris                  :1
+karen smith                   :1
+karen taylor                  :1
+karen wilson                  :1
+kate                          :1
+katie                         :1
+keisha johnson                :1
+kennedy                       :1
+kimberly johnson              :1
+kimberly jones                :1
+laquanda                      :1
+lashawn                       :1
+latisha                       :1
+latoya                        :1
+latoya hill                   :1
+laurel                        :1
+leah harper                   :1
+leah jackson                  :1
+leah smith                    :1
+lena                          :1
+lisa jackson                  :1
+lisa johnson                  :1
+lisa taylor                   :1
+lisa thomas                   :1
+lisa thompson                 :1
+logan                         :1
+luis                          :1
+lydia                         :1
+maggie                        :1
+marcel                        :1
+maria perez                   :1
+marisa                        :1
+marisol gonzalez              :1
+marisol hernandez             :1
+marketa                       :1
+marquis johnson               :1
+mary smith                    :1
+maría garcía                  :1
+matthew                       :1
+maya davis                    :1
+maya jackson                  :1
+maya miller                   :1
+maya ramirez                  :1
+maya singh                    :1
+maya smith                    :1
+maya williams                 :1
+megan                         :1
+melissa johnson               :1
+michaela brown                :1
+mya                           :1
+nateisha                      :1
+olivia rodriguez              :1
+olivia thomas                 :1
+omar                          :1
+patricia                      :1
+paula                         :1
+rachael                       :1
+rita                          :1
+roberta                       :1
+roberto                       :1
+robin                         :1
+sabrina                       :1
+sam                           :1
+samantha lee                  :1
+samantha ortiz                :1
+samantha rodriguez            :1
+samirah ahmed                 :1
+sarah johnson                 :1
+sean johnson                  :1
+sebastian                     :1
+shanequa                      :1
+shaniqua jackson              :1
+sharon                        :1
+shauna                        :1
+shayna                        :1
+sheryl                        :1
+sophie                        :1
+tanya                         :1
+tonya                         :1
+tracy                         :1
+tyler jackson                 :1
+ursula                        :1
+usha                          :1
+victor                        :1
 
 
 
@@ -446,41 +446,41 @@ age 35: 2
 
 
 
-hispanic: 3591
-african american: 3090
-african-american: 537
-hispanic/latina: 90
-caucasian: 89
-hispanic/latino: 85
-white: 30
-latina: 12
-asian: 11
-mexican-american: 11
-latino: 7
-black: 5
-hispanic/latinx: 5
-indian: 5
-pakistani: 4
-arab: 2
-hispanic or latino: 2
-korean-american: 2
-latino/hispanic: 2
-mexican: 2
-african american/black: 1
-arabic: 1
-asian-american: 1
-filipino: 1
-hispanic american: 1
-hispanic or latinx: 1
-hispanic-american: 1
-indian-american: 1
-latinx: 1
-middle eastern: 1
-nigerian: 1
+hispanic                      :3591
+african american              :3090
+african-american              :537
+hispanic/latina               :90
+caucasian                     :89
+hispanic/latino               :85
+white                         :30
+latina                        :12
+asian                         :11
+mexican-american              :11
+latino                        :7
+black                         :5
+hispanic/latinx               :5
+indian                        :5
+pakistani                     :4
+arab                          :2
+hispanic or latino            :2
+korean-american               :2
+latino/hispanic               :2
+mexican                       :2
+african american/black        :1
+arabic                        :1
+asian-american                :1
+filipino                      :1
+hispanic american             :1
+hispanic or latinx            :1
+hispanic-american             :1
+indian-american               :1
+latinx                        :1
+middle eastern                :1
+nigerian                      :1
 
 
 
-female: 5895
-male: 1664
-non-binary: 33
-nonbinary: 1
+female                        :5895
+male                          :1664
+non-binary                    :33
+nonbinary                     :1
